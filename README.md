@@ -22,11 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configured Roles (Admin Panel -> Agents -> Roles -> Supreme Admin)  
+- Configured Departments (Admin Panel -> Agents -> Departments -> SysAdmins)
+- Configured Agents (Admin Panel -> Agents -> Add New -> Jane, John) 
+- Configured SLA (Admin Panel -> Manage -> SLA -> Sev-A, Sev-B, Sev-C) 
+- Configured Help Topics (Admin Panel -> Manage -> Help Topics -> Business Critical Outage, etc.) 
+
+
 
 <h2>Configuration Steps</h2>
 
@@ -34,7 +36,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+1)Creating the "Supreme Admin" role is critical because it defines the highest level of permissions for agents, allowing full control over the osTicket system, including configuration, ticket management, and user oversight. Roles determine what actions agents can perform, making this a cornerstone of access control.
 </p>
 <br />
 
@@ -42,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2)\Setting up departments like "SysAdmins" is essential for organizing agents into groups based on their expertise or responsibilities. Departments control ticket visibility and assignment, ensuring tickets are routed to the right team (e.g., SysAdmins vs. Networking), streamlining workflow.
 </p>
 <br />
 
@@ -50,6 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5)Creating help topics like "Business Critical Outage" or "Password Reset" is key because they guide users when submitting tickets, categorizing issues for efficient routing and reporting. This improves ticket organization and helps agents address issues systematically.
 </p>
 <br />
