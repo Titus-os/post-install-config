@@ -42,7 +42,7 @@ Creating the "Supreme Admin" role is critical because it defines the highest lev
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="656" height="900" alt="image" src="https://github.com/user-attachments/assets/2101ca1d-4af0-47ea-96c9-12c216a9be4b" />
 </p>
 <p>
 Setting up departments like "SysAdmins" is essential for organizing agents into groups based on their expertise or responsibilities. Departments control ticket visibility and assignment, ensuring tickets are routed to the right team (e.g., SysAdmins vs. Networking), streamlining workflow.
@@ -50,9 +50,10 @@ Setting up departments like "SysAdmins" is essential for organizing agents into 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="944" height="239" alt="image" src="https://github.com/user-attachments/assets/87f18bb2-84fb-4c9b-b36f-38e61c27efe5" />
+<img width="960" height="508" alt="image" src="https://github.com/user-attachments/assets/0ad0a0be-ecbe-41f1-ba71-24f65220d4c5" />
 </p>
 <p>
-Creating help topics like "Business Critical Outage" or "Password Reset" is key because they guide users when submitting tickets, categorizing issues for efficient routing and reporting. This improves ticket organization and helps agents address issues systematically.
+Creating SLA's and help topics like "Business Critical Outage" or "Password Reset" is key because they guide users when submitting tickets, categorizing issues for efficient routing and reporting. This improves ticket organization and helps agents address issues systematically.
 </p>
 <br />
