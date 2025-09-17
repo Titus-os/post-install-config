@@ -33,11 +33,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="465" height="707" alt="image" src="https://github.com/user-attachments/assets/06d048eb-7474-4a04-ab66-7ccbb1f68082" />
 </p>
 <p>
 
-1)Creating the "Supreme Admin" role is critical because it defines the highest level of permissions for agents, allowing full control over the osTicket system, including configuration, ticket management, and user oversight. Roles determine what actions agents can perform, making this a cornerstone of access control.
+Creating the "Supreme Admin" role is critical because it defines the highest level of permissions for agents, allowing full control over the osTicket system, including configuration, ticket management, and user oversight. Roles determine what actions agents can perform, making this a cornerstone of access control.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2)\Setting up departments like "SysAdmins" is essential for organizing agents into groups based on their expertise or responsibilities. Departments control ticket visibility and assignment, ensuring tickets are routed to the right team (e.g., SysAdmins vs. Networking), streamlining workflow.
+Setting up departments like "SysAdmins" is essential for organizing agents into groups based on their expertise or responsibilities. Departments control ticket visibility and assignment, ensuring tickets are routed to the right team (e.g., SysAdmins vs. Networking), streamlining workflow.
 </p>
 <br />
 
@@ -53,6 +53,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5)Creating help topics like "Business Critical Outage" or "Password Reset" is key because they guide users when submitting tickets, categorizing issues for efficient routing and reporting. This improves ticket organization and helps agents address issues systematically.
+Creating help topics like "Business Critical Outage" or "Password Reset" is key because they guide users when submitting tickets, categorizing issues for efficient routing and reporting. This improves ticket organization and helps agents address issues systematically.
 </p>
 <br />
